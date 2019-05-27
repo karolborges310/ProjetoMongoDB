@@ -21,7 +21,7 @@ public class Main {
         PopulaElastic pelastic = new PopulaElastic();
         
         // pasta onde se encontram os JSON
-        String dir = "/home/bruno/Documentos/Comp/2019.1/BD2/trabMongoElastic/documentos";
+        String dir = "/home/grupobd22/Trbalho-BD/documentos";
         // database do MongoDB para onde vao os JSON
         String mongoDatabase = "fofos";
         // collection do MongoDB para onde vao os JSON
